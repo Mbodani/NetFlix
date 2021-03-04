@@ -1,0 +1,3 @@
+Alt-Shift-seta pra baixo = Duplicar linha
+
+owlcarousel2.github.io/owlcarousel2/
